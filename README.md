@@ -1,19 +1,70 @@
-# Tick-Tech-Toe---DAIICT
-## Chatbot for Gifting E-commerce Website
-### Objective:
-  Develop an AI-powered chatbot for an e-commerce gifting website that helps users select the perfect gift based on their preferences, occasion, recipient’s details, and budget. The chatbot should be user-friendly and able to guide the customer seamlessly through the gift selection process, ensuring a personalized shopping experience.
-### Key Features & Requirements:
-  1.	User Input Collection:
-     The chatbot must gather relevant information from users to recommend the ideal gift. Example inputs include:
-    ■	Occasion: Birthday, Wedding, Anniversary, Graduation, Festivals (e.g., Christmas, Diwali), etc.
-    ■	Recipient Information: Age, Gender, Relationship to the user (e.g., friend, parent, partner, colleague, etc.).
-    ■	Budget: Provide a price range or maximum spend.
-    ■	User Preferences: Preferences such as gift type (e.g., personalized gifts, tech gadgets, fashion accessories, etc.), delivery preferences (e.g., same-day delivery, customization time).
-  2.	Gift Recommendations:
-     	Based on the user's inputs, the AI chatbot should suggest a curated list of gifts that best match the occasion, recipient’s characteristics, and budget.
-     	Recommendations should be diverse, offering options in different categories (e.g., personalized, trending, best-sellers).
-  3.	Interactive Experience:
-     	The chatbot should be conversational and interactive, asking follow-up questions if needed (e.g., "Do you prefer personalized gifts?" or "Would you like to add a greeting card?").
-     	The AI should handle clarifications, if the user is unsure or provides vague responses.
-  4.	Seamless Shopping Experience:
-     	Once the user selects a gift, the chatbot should guide them to complete the purchase process (e.g., "Would you like to proceed with the purchase?")
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
