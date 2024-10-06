@@ -8,7 +8,7 @@ import os
 import markdown
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyCYdk3QrOoq_qzkvmHodWDlge9Unld7a8M")
+genai.configure(api_key="API_KEY")
 
 # Create the model
 generation_config = {
